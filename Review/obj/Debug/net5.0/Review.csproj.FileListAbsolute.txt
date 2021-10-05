@@ -1,0 +1,16 @@
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\Review.exe
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\Review.deps.json
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\Review.runtimeconfig.json
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\Review.runtimeconfig.dev.json
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\Review.dll
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\ref\Review.dll
+C:\users\flavio.paz\dotnet\dotnet\Review\bin\Debug\net5.0\Review.pdb
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.csproj.AssemblyReference.cache
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.AssemblyInfoInputs.cache
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.AssemblyInfo.cs
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.csproj.CoreCompileInputs.cache
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.dll
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\ref\Review.dll
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.pdb
+C:\users\flavio.paz\dotnet\dotnet\Review\obj\Debug\net5.0\Review.genruntimeconfig.cache

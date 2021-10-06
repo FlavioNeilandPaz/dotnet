@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJShjzGypbQqAWp5BslwqLfQsZy807sr8auZ2lx04D5OWIISWAs+itbCbA9Hmo8BkFcZ2ClWBtolpMqWjEeqmw==",
+  "dgSpecHash": "a3DbsLVSv8x2DcrzWrkzNFQWUlyN/Uf8LWKN1/z+NKnxKs5KGElFZIlHvV5arFCALRmMEw2LuHSsmpDdisQfkw==",
   "success": true,
-  "projectFilePath": "C:\\users\\flavio.paz\\dotnet\\dotnet\\Review\\Review.csproj",
+  "projectFilePath": "C:\\users\\flavio.paz\\dotnet\\dotnet\\review\\Review.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

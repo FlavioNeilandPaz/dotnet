@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\flavio.paz\\dotnet\\dotnet\\Review\\Review.csproj": {}
+    "C:\\users\\flavio.paz\\dotnet\\dotnet\\review\\Review.csproj": {}
   },
   "projects": {
-    "C:\\users\\flavio.paz\\dotnet\\dotnet\\Review\\Review.csproj": {
+    "C:\\users\\flavio.paz\\dotnet\\dotnet\\review\\Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\flavio.paz\\dotnet\\dotnet\\Review\\Review.csproj",
+        "projectUniqueName": "C:\\users\\flavio.paz\\dotnet\\dotnet\\review\\Review.csproj",
         "projectName": "Review",
-        "projectPath": "C:\\users\\flavio.paz\\dotnet\\dotnet\\Review\\Review.csproj",
+        "projectPath": "C:\\users\\flavio.paz\\dotnet\\dotnet\\review\\Review.csproj",
         "packagesPath": "C:\\Users\\flavio.paz\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\flavio.paz\\dotnet\\dotnet\\Review\\obj\\",
+        "outputPath": "C:\\users\\flavio.paz\\dotnet\\dotnet\\review\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
